@@ -1,0 +1,44 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<body>
+  <header>
+    <h1>venda de carros</h1>
+  </header>
+
+  <div class="container">
+    <div class="carro">
+      <img src="lamarquise1.jpg" alt="Carro 1">
+      <a href="file:///C:/Users/Br96723/Documents/trabalho%20pw/Pong2.html" title="">Clique aqui para comprar</a>
+
+      <h2>La-Maquise</h2>
+      <p>Capaz de atingir a velocidade máxima de 61 km/h, “La Marquise” (A Marquesa) teve apenas quatro proprietários desde a sua construção, em 1884.</p>
+      <p>O conde Jules-Albert de Dion deu o nome de “A Marquesa” ao modelo, em homenagem a sua mãe. O veículo participou na primeira corrida automóvel em 1887, entre Paris e Versailles. O De Dion, que mede 2,7 metros e pesa 952 quilos, é preto, tem quatro lugares, rodas estreitas e está decorado com muitas peças e detalhes douradas.</p>
+      <h3> valor de:3,3 milhões de Euro</h3>
+</div>
+
+    <div class="carro">
+      <img src="fusca.jpg" alt="Carro 2">
+      <a href="file:///C:/Users/Br96723/Documents/trabalho%20pw/Pong2.html" title="pong2">Clique aqui para comprar</a>
+     
+      <h2> Fusca de Ferdinand Porsche</h2>
+      <p>Ao contrário de outros veículos que acabaram sendo destruídos durante os testes ou pela guerra, o Fusca 1-00003 sobreviveu em uma garagem da Porsche em Berlim. Após encontrar o modelo danificado, um dos primeiros distribuidores da Volkswagen, Gerhard von Raffay, em 1946, comprou e restaurou o modelo.</p>
+      <p>O Fusca de chassi 1-00003 foi utilizado pelo próprio Ferdinand Porsche após a construção na Fábrica da Porsche em Stuttgart.</p>
+      <p>Como o Fusca mais antigo do Mundo acabou sendo destruído no referido incêndio, o Prototyp Museum de Hamburgo anunciou que reformaria o Fusca de chassi 1-00003. Para tanto, houve a instalação de um motor também produzido antes da guerra e que o museu obteve anteriormente.</p>
+      <p>Após 2 anos de restauração do modelo, o Fusca mais antigo do mundo voltou a sua forma inicial</p>
+     <h3> valor de:R$ 1,8 milhão</h3>
+    </div>
+
+    <div class="carro">
+      
+      <img src="calhambeque.jpg" alt="Carro 2">
+      <a href="file:///C:/Users/Br96723/Documents/trabalho%20pw/Pong2.html" title="pong2">Clique aqui para comprar</a>
+     
+      <h2> Fusca de Ferdinand Porsche</h2>
+      <p>calhambeque genuíno é caracterizado por altas capotas (por vezes de lona), rodas raiadas (muitas vezes de madeira), largos estribos¸ radiador à mostra e pneus delgados de borracha, inclusive maciça nos modelos mais rústicos. Alguns ostentam ainda grandes faróis a carbureto e bancos inteiriços. São veículos que marcaram época e de silhueta inconfundível, razão pela qual chamam a atenção onde quer que passem - e cada vez mais, à medida que envelhecem.</p>
+     <h3> valor de:R$105.000</h3>
+    </div>
+  </div>
+</body>
+</html>
